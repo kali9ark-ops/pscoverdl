@@ -1,4 +1,4 @@
-PSCoverDL
+PSCoverDL ark
 
 ![image](https://github.com/xlenore/pscoverdl/assets/57191159/4c4b3042-85e4-45b5-8f1b-48a6f00a93ea)
 
